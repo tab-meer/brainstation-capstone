@@ -1,4 +1,4 @@
-## BrainStation Capstone Project: Automated Spotify Song Recommendation System
+## Automated Spotify Song Recommendation System
 =========================
 
 ### Project Overview  
