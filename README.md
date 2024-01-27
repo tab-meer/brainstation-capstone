@@ -1,9 +1,8 @@
 ## MoodSync - A Mood-Based Spotify Song Recommendation System
-=========================
 
 ### Project Overview  
 #### Problem Area
-How can we use machine learning to improve music recommendation for users to quickly create personalized playlists based on their mood? While services like Spotify allow manual playlist creation, there is a lack of automated features. Spotify has experimented with an AI feature called 'DJ', which learns users’ music preferences and when activated, plays a curated lineup of songs in real-time, mimicking a live DJ experience. There is an opportunity to enhance music recommendation by integrating this feature into playlist creation, refining 'DJ' to generate playlists based on user inputs such as mood, offering a more innovative and personalized music experience.
+How can we use machine learning to improve music recommendation for users to quickly create personalized playlists based on their mood? While services like Spotify allow manual playlist creation, there is a lack of intelligent automated features. Spotify has experimented with an AI feature called 'DJ', which learns users’ music preferences and when activated, plays a curated lineup of songs in real-time, mimicking a live DJ experience. There is an opportunity to enhance music recommendation by integrating this feature into playlist creation, refining 'DJ' to generate playlists based on user inputs such as mood, offering a more innovative and personalized music experience.
 
 This project addresses issues faced by Spotify users, specifically those seeking more efficient and personalized playlist creation. Potential beneficiaries encompass music enthusiasts, tech-savvy users, and busy casual listeners seeking variety in their day-to-day.
 
