@@ -1,4 +1,4 @@
-# MoodSync - A Mood-Based Spotify Song Recommendation System
+# MoodSync: A Mood-Based Spotify Song Recommendation System
 
 ## Project Overview  
 ### Problem Area
