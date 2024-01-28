@@ -40,29 +40,15 @@ Enhancing user experience on platforms like Spotify meets the widespread demand 
 * `notebooks`
     - contains all final notebooks involved in the project
 
-* `reports`
-    - contains final report which summarises the project
-
-* `references`
-    - contains papers / tutorials used in the project
-
-* `src`
-    - Contains the project source code (refactored from the notebooks)
+* `presentations`
+    - contains all sprint presentation files
 
 * `.gitignore`
     - Part of Git, includes files and folders to be ignored by Git version control
 
-* `capstine_env.yml`
-    - Conda environment specification
-
-* `Makefile`
-    - Automation script for the project
-
 * `README.md`
     - Project landing page (this page)
 
-* `LICENSE`
-    - Project license
 
 ## Dataset
 
